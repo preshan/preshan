@@ -126,20 +126,12 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 ### Connect
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&height=32&lines=Let%27s+connect;Open+to+senior+%2F+platform+roles" alt="Let's connect" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/preshan">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="48" height="48" /><br />
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fpreshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:preshanpradeepa@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="48" height="48" /><br />
-    Gmail
+    <img src="https://img.shields.io/badge/Gmail-preshanpradeepa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
