@@ -85,25 +85,6 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
 
 ---
 
-### Skills
-
-**Backend**  
-PHP 8.x · Laravel 5.2 to 13 · REST APIs · MySQL · PostgreSQL · Nova · Passport · Auth0 · queues · caching · Pest PHP · Laravel Telescope · Python (Django, FastAPI) · AWS Lambda
-
-**Frontend & Mobile**  
-React · TypeScript · Next.js · Vue.js · Flutter · Dart · Riverpod · Isar · Supabase · Firebase Auth
-
-**Cloud & CI/CD**  
-AWS (EC2, RDS, S3, Lambda, CDK, CloudFront) · Docker · GitHub Actions · GitHub Pages · Flutter web deploy
-
-**Integrations**  
-Stripe · PayPal · Shopify · Chargebee · Australia Post · FedEx · webhooks · DataDog · Google Analytics · Google Tag Manager
-
-**AI Skills**  
-AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · AI driven project planning and management
-
----
-
 ### GitHub stats
 
 <p align="center">
@@ -120,6 +101,25 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D contribution graph (night green)" width="100%" />
 </p>
+
+---
+
+### Skills
+
+**Backend**  
+PHP 8.x · Laravel 5.2 to 13 · REST APIs · MySQL · PostgreSQL · Nova · Passport · Auth0 · queues · caching · Pest PHP · Laravel Telescope · Python (Django, FastAPI) · AWS Lambda
+
+**Frontend & Mobile**  
+React · TypeScript · Next.js · Vue.js · Flutter · Dart · Riverpod · Isar · Supabase · Firebase Auth
+
+**Cloud & CI/CD**  
+AWS (EC2, RDS, S3, Lambda, CDK, CloudFront) · Docker · GitHub Actions · GitHub Pages · Flutter web deploy
+
+**Integrations**  
+Stripe · PayPal · Shopify · Chargebee · Australia Post · FedEx · webhooks · DataDog · Google Analytics · Google Tag Manager
+
+**AI Skills**  
+AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · AI driven project planning and management
 
 ---
 
