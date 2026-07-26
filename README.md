@@ -126,9 +126,38 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 
 ### Connect
 
-- LinkedIn: [linkedin.com/in/preshan](https://linkedin.com/in/preshan)
-- Email: [preshanpradeepa@gmail.com](mailto:preshanpradeepa@gmail.com)
-- Portfolio apps: [SYU](https://preshan.github.io/SYU-Sri-Lanka/) · [SkyTask](https://github.com/preshan/SkyTask)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/demo/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&height=32&lines=Let%27s+connect;Open+to+senior+%2F+platform+roles" alt="Let's connect" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/preshan">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="LinkedIn" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:preshanpradeepa@gmail.com">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="48" height="48" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/preshan">
+    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fpreshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:preshanpradeepa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-preshanpradeepa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  Portfolio apps:
+  <a href="https://preshan.github.io/SYU-Sri-Lanka/">SYU</a>
+  ·
+  <a href="https://github.com/preshan/SkyTask">SkyTask</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preshan&style=flat-square&color=003366" alt="Profile views" />
