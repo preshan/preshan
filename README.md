@@ -100,14 +100,11 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
   <img src="https://streak-stats.demolab.com?user=preshan&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
-<!-- Night-green 3D graph — run Actions → GitHub-Profile-3D-Contrib once to generate -->
-<details>
-<summary><b>3D contribution graph</b> (night green · expands after first Action run)</summary>
-<br />
+### Contribution graph
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="GitHub 3D contribution graph (night green)" width="100%" />
 </p>
-</details>
 
 ---
 
