@@ -1,48 +1,46 @@
 # GitHub profile README setup
 
-This folder is meant to become the special profile repo: **`preshan/preshan`**.
+Your profile README lives in the special public repo **[preshan/preshan](https://github.com/preshan/preshan)**.
 
-That is the only repo name that shows as your GitHub homepage README.
+It already renders on the **repo** page. If it does **not** appear on your Overview ([github.com/preshan](https://github.com/preshan)), GitHub has not linked it to your profile yet.
 
-## Create & publish
+## Fix (do this while logged in as `preshan`)
+
+### Option A — Share to profile (try first)
+
+1. Open https://github.com/preshan/preshan
+2. On the repo overview, look above the README (right side) for a **Share to profile** button
+3. Click it
+4. Hard-refresh https://github.com/preshan (or open in a private window)
+
+GitHub only shows this button in some cases (e.g. older same-name repos). See [Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
+
+### Option B — Recreate via the GitHub website (most reliable)
+
+1. Open https://github.com/preshan/preshan/settings → **Danger Zone** → **Delete this repository**
+2. Also delete leftovers if present: `old-preshan-readme`, `old-preshan-readme-2`
+3. Go to https://github.com/new
+4. Repository name: **`preshan`** (must match your username exactly)
+5. You should see a banner like: *“You found a secret! … special repository …”*
+6. Public · **Add a README file** = On · Create repository
+7. Tell me when that is done — I will force-push the designed README from this folder
+
+### Optional — let the agent delete for you
+
+```bash
+gh auth refresh -h github.com -s delete_repo
+```
+
+Then say “delete and recreate the profile repo”.
+
+## Local edits
 
 ```bash
 cd /Users/preshan/Documents/htdocs/preshan-github-profile
-gh repo create preshan --public --source=. --remote=origin --push
+# edit README.md
+git add README.md && git commit -m "update profile README" && git push
 ```
 
-If `preshan/preshan` must be the exact name:
+## 3D contribution graph
 
-```bash
-gh repo create preshan/preshan --public --source=. --remote=origin --push
-```
-
-(On GitHub, the profile README repo must be named exactly like your username: `preshan`.)
-
-## Enable the night-green 3D graph
-
-1. Open the repo → **Actions** → **GitHub-Profile-3D-Contrib** → **Run workflow**
-2. After it finishes, `profile-3d-contrib/profile-night-green.svg` will exist
-3. Refresh https://github.com/preshan
-
-Optional: in GitHub **Settings → Profile → Contributions & activity**, enable  
-**Include private contributions on my profile** so private work counts.
-
-## Optional extras (not included by default — keeps the page clean)
-
-| Tool | Link |
-| --- | --- |
-| Typing SVG demo | https://readme-typing-svg.demolab.com/demo/ |
-| Streak / typing author profile | https://github.com/DenverCoder1 |
-| 3D contrib (night green) | https://github.com/yoshi389111/github-profile-3d-contrib |
-| Galaxy theme (heavier) | https://github.com/vinimlo/galaxy-profile |
-| More README ideas | https://github.com/roypriyanshu02/impressive-profile-readmes |
-
-## Pin these repos on your profile
-
-1. SYU-Sri-Lanka  
-2. SkyTask  
-3. laravel-Nextjs-stripe-fedex-marketplace-demo  
-4. school-app-laravel-react-  
-
-(GitHub → profile → Customize your pins)
+Workflow: `.github/workflows/profile-3d.yml` (daily). Preferred image: `profile-3d-contrib/profile-night-green.svg`.
