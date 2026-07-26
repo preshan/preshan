@@ -42,6 +42,27 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
 
 ---
 
+### My favorite tools and technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,mysql,postgres,redis,react,nextjs,vue,ts,js,flutter,dart,html,css,aws,docker,githubactions,github,firebase,supabase,vercel,linux,bash,postman,figma&theme=dark&perline=14" alt="Skills icons" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</p>
+
+---
+
 ### Featured work
 
 | Project | Stack | What it is |
@@ -81,27 +102,6 @@ Stripe · PayPal · Shopify · Chargebee · Australia Post · FedEx · webhooks 
 
 **AI Skills**  
 AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · AI driven project planning and management
-
----
-
-### My favorite tools and technologies
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,mysql,postgres,redis,react,nextjs,vue,ts,js,flutter,dart,html,css,aws,docker,githubactions,github,firebase,supabase,vercel,linux,bash,postman,figma&theme=dark&perline=14" alt="Skills icons" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
 
 ---
 
