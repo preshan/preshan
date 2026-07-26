@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Senior+Software+Engineer;Laravel+%C2%B7+PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+AWS;Building+production+systems+for+Australian+product+companies;AI+driven+engineering+with+Cursor+%C2%B7+Claude+%C2%B7+Codex" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=40&lines=Senior+Software+Engineer;Laravel+%C2%B7+PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+AWS;Building+production+systems+for+Australian+companies;AI+driven+engineering+with+Cursor+%C2%B7+Claude+%C2%B7+Codex" alt="Typing SVG" />
   </a>
 </p>
 
