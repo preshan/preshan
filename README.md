@@ -137,3 +137,4 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" alt="footer" width="100%" />
 </p>
+
