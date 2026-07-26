@@ -1,0 +1,33 @@
+# Night-green 3D contribution calendar for the profile README
+# https://github.com/yoshi389111/github-profile-3d-contrib
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    # ~03:30 Sri Lanka time (UTC+5:30) ≈ 22:00 UTC previous day
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update 3D contribution graph [skip ci]"; then
+            git push
+          fi
