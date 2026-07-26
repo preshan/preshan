@@ -17,7 +17,6 @@
   <a href="https://linkedin.com/in/preshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:preshanpradeepa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/preshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Remote-Australia-003366?style=for-the-badge" alt="Remote AU" />
 </p>
 
 ---
@@ -28,7 +27,7 @@ Senior Software Engineer with **8+ years** building production full stack system
 
 Most recently delivered Laravel and PHP APIs and document services for **Euka Future Learning** (K-12 EdTech), and shipped Flutter apps with GitHub Actions CI/CD and AWS. Earlier, as Senior Software Engineer and Team Lead at **CreatIT**, full stack delivery for **Orivet Genetic Pet Care**.
 
-- Based in **Galle, Sri Lanka** · available **Remote AU**
+- Based in **Galle, Sri Lanka**
 - Focus: backend APIs, platform engineering, Flutter, AI-assisted delivery
 - Open to senior / platform roles
 
