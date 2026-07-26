@@ -134,21 +134,13 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 
 <p align="center">
   <a href="https://linkedin.com/in/preshan">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="LinkedIn" width="48" height="48" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="48" height="48" /><br />
+    LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:preshanpradeepa@gmail.com">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="48" height="48" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/preshan">
-    <img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Fpreshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:preshanpradeepa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-preshanpradeepa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="48" height="48" /><br />
+    Gmail
   </a>
 </p>
 
