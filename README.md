@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=40&lines=Senior+Software+Engineer;Laravel+%C2%B7+PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+AWS;Building+production+systems+for+Australian+companies;AI+driven+engineering+with+Cursor+%C2%B7+Claude+%C2%B7+Codex" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=1000&height=40&lines=Senior+Software+Engineer;Laravel+%C2%B7+PHP+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Flutter+%C2%B7+AWS;Building+production+full+stack+systems;AI+driven+engineering+with+Cursor+%C2%B7+Claude+%C2%B7+Codex" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,13 +24,13 @@
 
 ### Hi, I'm Preshan
 
-Senior Software Engineer with **8+ years** building production full stack systems for Australian product companies.
+Senior Software Engineer with **8+ years** building production full stack systems.
 
 Most recently delivered Laravel and PHP APIs and document services for **Euka Future Learning** (K-12 EdTech), and shipped Flutter apps with GitHub Actions CI/CD and AWS. Earlier, as Senior Software Engineer and Team Lead at **CreatIT**, full stack delivery for **Orivet Genetic Pet Care**.
 
 - Based in **Galle, Sri Lanka** · available **Remote AU**
 - Focus: backend APIs, platform engineering, Flutter, AI-assisted delivery
-- Open to senior / platform roles with Australian product teams
+- Open to senior / platform roles
 
 ---
 
