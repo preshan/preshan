@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=140&section=header&text=Preshan%20Pradeepa%20K.&fontSize=40&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20AI%20Driven%20Engineering&descAlignY=55&descSize=14&fontColor=E6EDF3&animation=fadeIn" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=003366&height=180&section=header&text=Preshan%20Pradeepa%20K.&fontSize=42&fontAlignY=40&desc=Senior%20Software%20Engineer%20%7C%20AI%20Driven%20Engineering%20%7C%20Laravel%20%C2%B7%20PHP%20%C2%B7%20Python%20%C2%B7%20React%20%C2%B7%20NextJs%20%C2%B7%20Flutter%20%C2%B7%20AWS&descAlignY=65&descSize=12&fontColor=E6EDF3&animation=fadeIn" alt="header" width="100%" />
 </p>
 
 <p align="center">
@@ -135,6 +135,6 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=003366&height=80&section=footer" alt="footer" width="100%" />
 </p>
 
