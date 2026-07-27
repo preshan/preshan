@@ -173,15 +173,6 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
 
 ---
 
-### Featured work
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [**SYU Sri Lanka**](https://github.com/preshan/SYU-Sri-Lanka) | Flutter · Riverpod · Supabase · GitHub Actions | Membership app + site — AI driven delivery in ~4 days, 10 releases, CI/CD to [GitHub Pages](https://preshan.github.io/SYU-Sri-Lanka/) |
-| [**SkyTask**](https://github.com/preshan/SkyTask) | Flutter · Clean Architecture · Isar · Firebase | Offline first productivity app — tasks, reminders, biometric lock, cloud sync |
-| [**Marketplace demo**](https://github.com/preshan/laravel-Nextjs-stripe-fedex-marketplace-demo) | Laravel · Next.js · Stripe · FedEx | Commerce sample with payments and shipping integrations |
-| [**School app**](https://github.com/preshan/school-app-laravel-react-) | Laravel · React | Full stack school / admin style application |
-
 <details>
 <summary><b>Career highlights</b> (click to expand)</summary>
 
@@ -191,6 +182,10 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
 - **Etalon Australia** — Platform Engineer, AI driven full stack — commerce API hardening, webhooks, safer production changes
 - **CreatIT Solutions** — Senior Software Engineer / Team Lead — Orivet Genetic Pet Care (AU DNA pet health platform): APIs, partner dashboards, Shopify sync, Stripe / PayPal, AWS CDK Lambdas, Vue → React / Next.js
 - **Eutech Cybernetics** — Associate Software Engineer — enterprise XML based framework, SQL Server, Crystal Reports
+- [**SYU Sri Lanka**](https://github.com/preshan/SYU-Sri-Lanka) — Flutter · Riverpod · Supabase · GitHub Actions — membership app + site, AI driven delivery in ~4 days, 10 releases, CI/CD to [GitHub Pages](https://preshan.github.io/SYU-Sri-Lanka/)
+- [**SkyTask**](https://github.com/preshan/SkyTask) — Flutter · Clean Architecture · Isar · Firebase — offline first productivity app (tasks, reminders, biometric lock, cloud sync)
+- [**Marketplace demo**](https://github.com/preshan/laravel-Nextjs-stripe-fedex-marketplace-demo) — Laravel · Next.js · Stripe · FedEx — commerce sample with payments and shipping integrations
+- [**School app**](https://github.com/preshan/school-app-laravel-react-) — Laravel · React — full stack school / admin style application
 
 </details>
 
