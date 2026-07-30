@@ -199,7 +199,7 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=preshan&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=preshan&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
 ### Contribution graph
