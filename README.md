@@ -66,7 +66,7 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -78,45 +78,41 @@ Most recently delivered Laravel and PHP APIs and document services for **Euka Fu
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="65" height="65" />
       <br>Webpack
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpanel" alt="cPanel" width="48" height="48" />
-      <br>cPanel
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
   </tr>
@@ -282,7 +278,6 @@ AI driven engineering with Codex · Claude · Cursor AI · MCP build skills · A
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>
-<a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://cdn.simpleicons.org/cpanel/FF6C2C" alt="cPanel" height="25" /></a>
 </div>
 
 <br/>
